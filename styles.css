@@ -1,4 +1,18 @@
 
 body {
   font-family: 'Raleway', sans-serif;
+  background: #f1fffa;
+}
+.icon-top {
+  background: #8C7B46;
+}
+
+.icon-top a {
+  color: #f1fffa;
+  font-size: 30px;
+  transition: color 1s ease;
+}
+
+.icon-top a:hover {
+  color: #000;
 }
